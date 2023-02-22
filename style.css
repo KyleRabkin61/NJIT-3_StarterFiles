@@ -27,10 +27,10 @@ body {
 .thumbnail {
     border: 0px;
     position: relative;
-    padding: 50px;
+    padding: 20px;
+    margin: 20px;
     border-radius: 0;
-    margin-bottom: 50px;
-
+    background-color:#dddddd;
 }
 .thumbnail img {
     margin-top: 10px;
