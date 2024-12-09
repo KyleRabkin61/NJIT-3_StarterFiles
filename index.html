@@ -16,7 +16,6 @@
 	<!-- Javascript Framework (e.g., vue.js) (ADD HERE) -->
 
 
-
 </head>
 
   <body>
@@ -25,7 +24,7 @@
 	    <div class="header">
 
 	      <div class="container">
-	        <h1 id="app_title">%title%</h1>
+	        <h1 id="app_title">{{ title }}</h1>
 	      </div>
 
 	    </div>
@@ -40,7 +39,7 @@
 						<img class="poster img-fluid" />
 						<div class="imageInfo">%posterindex%</div>
 
-						<p class="title">%title% (%country%)</p>
+						<p class="title">{{ title }} (%country%)</p>
 						<p class="score"><i class="bi bi-star" aria-hidden="true"></i> %iscore% </p>
 						<p class="runtime">Runtime: %runtime%</p>
 						<p class="released">Released: %released% | Rated: %rating%</p>
@@ -58,8 +57,8 @@
 
 	    <div class="footer">
 	      <div class="container">
-			<a id="github" class="btn btn-lg btn-warning">
-				<i class="bi bi-github me-2"></i>%owner%
+			<a id="github" class="btn btn-lg btn-warning" href="">
+				<i class="bi bi-github me-2"></i>{{ owner }}
 	  		</a>
 	      </div>
 	    </div>
