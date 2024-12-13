@@ -66,6 +66,7 @@ body {
 /* This shapes your IMDB score area */
 .score {
     background-color: #39D1B4;
+    border-radius: 100%;
     color: #fff;
     font-size: 18px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -105,6 +106,30 @@ body {
     font-weight: 200;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     transition: 500ms;
+}
+
+.likes {
+    background: #008700;
+    color: white;
+    transition: 0.5s;
+}
+
+.likes:hover {
+    background-color: #9edd87;
+    color: #008700;
+    transition: 0.5s;
+}
+
+.dislikes {
+    background: #f65a5b;
+    color: white;
+    transition: 0.5s;
+}
+
+.dislikes:hover {
+    background-color: #fdd6d6;
+    color: #F65A5B;
+    transition: 0.5s;
 }
 
 /* This makes sure your Github Button is centered */
