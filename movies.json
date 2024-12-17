@@ -63,10 +63,38 @@
             "released": [1993, 11, 30],
             "country": "USA",
             "posters": ["img/schindlerslist.jpg"],
-            "imdb": "http://www.imdb.com/title/tt0108052",
-            "website": "https://www.uphe.com/schindlers-list",
+            "imdb": "https://www.imdb.com/title/tt1291584/",
+            "website": "https://www.lionsgate.com/movies/warrior",
             "likes": 812,
             "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "Warrior",
+            "iscore": 8.1,
+            "rating": "PG-13",
+            "runtime": 140,
+            "released": [2011, 9, 9],
+            "country": "USA",
+            "posters": ["img/warrior.jpg", "img/warrior2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1291584/",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 943,
+            "dislikes": 131,
+            "posterindex": 0
+      },
+      {
+            "title": "Interstellar",
+            "iscore": 8.7,
+            "rating": "PG-13",
+            "runtime": 169,
+            "released": [2014, 10, 26],
+            "country": "Canada",
+            "posters": ["img/warrior.jpg", "img/warrior2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0816692/",
+            "website": "https://www.warnerbros.co.uk/movies/interstellar",
+            "likes": 872,
+            "dislikes": 105,
             "posterindex": 0
       }
 ]
