@@ -90,11 +90,25 @@
             "runtime": 169,
             "released": [2014, 10, 26],
             "country": "Canada",
-            "posters": ["img/warrior.jpg", "img/warrior2.jpg"],
+            "posters": ["img/interstellar.jpeg", "img/interstellar2.jpeg"],
             "imdb": "https://www.imdb.com/title/tt0816692/",
             "website": "https://www.warnerbros.co.uk/movies/interstellar",
             "likes": 872,
             "dislikes": 105,
+            "posterindex": 0
+      },
+      {
+            "title": "Inception",
+            "iscore": 8.8,
+            "rating": "PG-13",
+            "runtime": 148,
+            "released": [2010, 7, 16],
+            "country": "USA",
+            "posters": ["img/inception.jpeg", "img/inception2.jpeg"],
+            "imdb": "https://www.imdb.com/title/tt0816692/",
+            "website": "https://www.warnerbros.co.uk/movies/interstellar",
+            "likes": 796,
+            "dislikes": 215,
             "posterindex": 0
       }
 ]
